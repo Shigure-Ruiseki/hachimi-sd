@@ -1094,6 +1094,7 @@
         "204442": "<b>Target Speed +0.25 m/s for 3 s</b> when: Late Surger AND Middle leg (random) AND Distance to first ≥15m\n<b>Target Speed +0.15 m/s for 3 s</b> when: Late Surger AND Middle leg (random)",
         "204452": "<b>Target Speed +0.35 m/s for 3 s</b> when: Medium AND Late Surger AND Middle leg first half (random) AND Stayed in trailing 60%\n<b>Current Speed -0.15 m/s for 3 s</b> when: Medium AND Late Surger AND Middle leg first half (random)",
         "204453": "<b>Target Speed +0.15 m/s for 3 s</b> when: Middle leg first half (random) AND Stayed in trailing 60%\n<b>Target Speed +0.05 m/s for 3 s</b> when: Middle leg first half (random)",
+        "204462": "<b>Target Speed +0.15 m/s for 3 s</b> when: Mile AND Middle leg first half (random) AND In trailing 60%",
         "210011": "<b>Target Speed +0.35 m/s * Team Speed for 1.8 s</b> when: Middle leg (random)",
         "210012": "<b>Target Speed +0.15 m/s * Team Speed for 1.8 s</b> when: Middle leg (random)",
         "210021": "<b>Current HP +5.5% * Team Stamina immediately</b> when: Middle leg (random)",

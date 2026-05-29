@@ -1,6 +1,6 @@
 {
-  "base_url": "https://raw.githubusercontent.com/UmaTL/hachimi-sd/release/localized_data",
-  "zip_url": "https://codeload.github.com/UmaTL/hachimi-sd/zip/refs/heads/release",
+  "base_url": "https://raw.githubusercontent.com/Shigure-Ruiseki/hachimi-sd/release/localized_data",
+  "zip_url": "https://codeload.github.com/Shigure-Ruiseki/hachimi-sd/zip/refs/heads/release",
   "zip_dir": "hachimi-sd-release/localized_data",
   "files": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "01894b93a48c7a9331eb995ab3dac423b863cc4b24bca6574962ae20dd37548d",
-      "size": 352096
+      "hash": "eecdb614c97be24e232d05b4accc76bb5c423cb29b21a080ae64a7e2afd8a3f6",
+      "size": 355804
     }
   ]
 }
